@@ -1,0 +1,21 @@
+button {
+    border-radius: 10%;
+    background-color: navy;
+    border-color: #ffffff;
+}
+
+#mainTable {
+    border: 3px solid navy;
+    border-radius: 2px;
+    border-collapse: collapse;
+}
+
+#mainTable th {
+    padding: 10px;
+}
+
+#mainTable td, th {
+    border: 1px solid navy;
+    border-collapse: collapse;
+    text-align: center;
+}
